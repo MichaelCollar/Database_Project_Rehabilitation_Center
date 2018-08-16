@@ -1,4 +1,4 @@
-# Database-Project-Rehabilitation_Center
+# SQL-Database-Project-Rehabilitation-Center
 
 Database of the Rehabilitation Center.
 
