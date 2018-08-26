@@ -6,4 +6,4 @@ A student project on relational databases at the Polish-Japanese Academy of Info
 
 Database Schema:
 
-<img src="http://cmsweb.pl/wp-content/uploads/2018/08/DatabaseModel.png" width="840">
+<img src="https://whitelistnews.com/wp-content/uploads/2018/08/DatabaseModel.png" width="840">
