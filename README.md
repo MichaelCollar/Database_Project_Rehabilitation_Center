@@ -6,4 +6,4 @@ A student project on relational databases at the Polish-Japanese Academy of Info
 
 Database Model:
 
-<img src="http://cmsweb.pl/wp-content/uploads/2018/08/DatabaseModel.png" width="840">
+<img src="http://schoolstyle.pl/wp-content/uploads/2018/12/DatabaseModel.png" width="840">
